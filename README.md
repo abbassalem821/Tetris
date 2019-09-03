@@ -1,8 +1,8 @@
 # Description
-Developed a Tetris AI using evolutionary algorithms to reach the high score of 500 in the shortest amount of time possible
+Developed a Tetris AI using evolutionary algorithms to reach the high score of 500 in the shortest amount of time possible. This was built for practice on implementing AI concepts. 
 
 # Credits
-Inspiration on this project was taken from Siraj Raval and several other Github users 
+Inspiration on this project was taken from Siraj Raval's Youtube channel and several other Github users. 
 
 # Usage 
 Open up the html and watch the game play itself! 
