@@ -5,4 +5,4 @@ Developed a Tetris AI using evolutionary algorithms to reach the high score of 5
 Inspiration on this project was taken from Siraj Raval's Youtube channel and several other Github users. 
 
 # Usage 
-Open up the html and watch the game play itself! 
+Open up the .html on the web browser of your choice and watch the AI play itself! 
